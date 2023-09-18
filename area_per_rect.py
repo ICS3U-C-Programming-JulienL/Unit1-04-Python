@@ -2,7 +2,7 @@
 
 # Created By: Julien Lamoureux
 # Date: September 18, 2023
-# This program displays basic math operations
+# This program displays the area and perimeter of a rectangle
 
 
 def main():
